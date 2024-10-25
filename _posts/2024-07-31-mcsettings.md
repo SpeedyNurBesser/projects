@@ -32,4 +32,4 @@ MCSettings is a web tool for the easy creation of Settings Interfaces for Datapa
   </a>
 </div>
 
-[^1]: Note, that there's a clear seperation between Minecraft Datapacks and Minecraft Mods. One has also differantiate Minecraft Plugins which act on a server-side.
+[^1]: Note, that there's a clear distinction between Minecraft Datapacks and Minecraft Mods, not to forget Plugins which act server-side.

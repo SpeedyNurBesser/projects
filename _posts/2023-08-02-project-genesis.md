@@ -10,7 +10,7 @@ date:   2023-08-02 10:05:42 +0200
 og_description: "Writing an article daily for a week." #Open Graph description.
 ---
 
-Between the August 2nd and August 8th 2023, I challenged myself to write an article daily for a week. In my notes this challenge went under the name *Project Genesis*. Most of those articles weren't really good, but I wrote a concluding article which is worth sharing. I published those articles on [Medium](https://medium.com).
+Between August 2nd and August 8th 2023, I challenged myself to write an article daily for a week. In my notes this challenge went under the name *Project Genesis*. Most of those articles weren't really good, but I wrote a concluding article which is worth sharing. I published those articles on [Medium](https://medium.com).
 
 
 
