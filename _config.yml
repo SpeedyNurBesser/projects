@@ -1,4 +1,4 @@
-theme: jekyll-theme-simplex
+remote_theme: andreondra/jekyll-theme-simplex
 logo_img: /assets/title_logo.svg
 title: Ole370's Projects
 email: 370.Ole@proton.me
