@@ -4,8 +4,8 @@ category: [modding] #One, more categories or no at all.
 title:  "Fast Item Swap (Inventory Enhancement) Datapack for Minecraft Java version 1.17"
 date:   2021-08-04 10:05:42 +0200
 #author: jekyll #Author's nick.
-#nextPart: _posts/2021-06-16-pictures-example.md #Next part.
-#prevPart: _posts/2021-06-16-welcome-to-jekyll.md #Previous part.
+nextPart: _posts/2023-04-07-woodcutterV2.md #Next part.
+prevPart: _posts/2021-07-23-woodcutterV1.md #Previous part.
 #og_image: assets/example.png #Open Graph preview image.
 og_description: "Fast Item Swap (Inventory Enhancement) Datapack for Minecraft Java version 1.17" #Open Graph description.
 ---

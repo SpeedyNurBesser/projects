@@ -4,8 +4,8 @@ category: [modding] #One, more categories or no at all.
 title:  "Woodcutter Datapack for Minecraft Java version 1.14 to 1.17"
 date:   2021-07-23 10:05:42 +0200
 #author: jekyll #Author's nick.
-#nextPart: _posts/2021-06-16-pictures-example.md #Next part.
-#prevPart: _posts/2021-06-16-welcome-to-jekyll.md #Previous part.
+nextPart: _posts/2021-08-04-fast-item-swap.md #Next part.
+prevPart: _posts/2019-04-25-ahk-scripts.md #Previous part.
 #og_image: assets/example.png #Open Graph preview image.
 og_description: "Woodcutter Datapack for Minecraft Java version 1.14 to 1.17." #Open Graph description.
 ---

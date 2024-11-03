@@ -4,8 +4,8 @@ category: [writing] #One, more categories or no at all.
 title:  "Writing an article daily for a week."
 date:   2023-08-02 10:05:42 +0200
 #author: jekyll #Author's nick.
-#nextPart: _posts/2021-06-16-pictures-example.md #Next part.
-#prevPart: _posts/2021-06-16-welcome-to-jekyll.md #Previous part.
+nextPart: _posts/2023-08-16-kaprekar.md #Next part.
+prevPart: _posts/2023-04-07-woodcutterV2.md #Previous part.
 #og_image: assets/example.png #Open Graph preview image.
 og_description: "Writing an article daily for a week." #Open Graph description.
 ---

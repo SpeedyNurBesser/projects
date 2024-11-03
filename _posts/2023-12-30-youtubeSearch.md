@@ -4,8 +4,8 @@ category: [programming] #One, more categories or no at all.
 title:  "Clean YouTube Search: YouTube Homepage without distractions"
 date:   2023-12-30 10:05:42 +0200
 #author: jekyll #Author's nick.
-#nextPart: _posts/2021-06-16-pictures-example.md #Next part.
-#prevPart: _posts/2021-06-16-welcome-to-jekyll.md #Previous part.
+nextPart: _posts/2024-07-26-a_writing_program.md #Next part.
+prevPart: _posts/2023-12-30-mineutecraft.md #Previous part.
 #og_image: assets/example.png #Open Graph preview image.
 og_description: "Clean YouTube Homepage Search Without Distractions" #Open Graph description.
 ---

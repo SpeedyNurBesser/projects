@@ -4,8 +4,8 @@ category: [programming, writing] #One, more categories or no at all.
 title:  "A_WritingProgram: Distraction-free writing software"
 date:   2024-07-26 10:05:42 +0200
 #author: jekyll #Author's nick.
-#nextPart: _posts/2021-06-16-pictures-example.md #Next part.
-#prevPart: _posts/2021-06-16-welcome-to-jekyll.md #Previous part.
+nextPart: _posts/2024-07-31-mcsettings.md #Next part.
+prevPart: _posts/2023-12-30-youtubeSearch.md #Previous part.
 #og_image: assets/example.png #Open Graph preview image.
 og_description: "A_WritingProgram: Distraction-free writing software" #Open Graph description.
 ---

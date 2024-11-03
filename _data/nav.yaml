@@ -1,14 +1,14 @@
 - title: Programming #Menu item title.
   url: category/programming.html #Menu item url.
-  icon: assets/img/icons/programming.svg #Menu item icon.
+  icon: assets/icons/programming.svg #Menu item icon.
   hue: "var(--c-themeHueBlue)" #Menu item hue - see note [1].
 
 - title: Modding #Menu item title.
   url: category/modding.html #Menu item url.
-  icon: assets/img/icons/modding.svg #Menu item icon.
+  icon: assets/icons/modding.svg #Menu item icon.
   hue: "var(--c-themeHuePurple)" #Menu item hue - see note [1].
 
 - title: Writing #Menu item title.
   url: category/writing.html #Menu item url.
-  icon: assets/img/icons/writing.svg #Menu item icon.
+  icon: assets/icons/writing.svg #Menu item icon.
   hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].

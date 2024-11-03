@@ -4,8 +4,8 @@ category: [modding] #One, more categories or no at all.
 title:  "MineuteCraft Datapack for Minecraft 1.20"
 date:   2023-12-30 10:05:42 +0200
 #author: jekyll #Author's nick.
-#nextPart: _posts/2021-06-16-pictures-example.md #Next part.
-#prevPart: _posts/2021-06-16-welcome-to-jekyll.md #Previous part.
+nextPart: _posts/2023-12-30-youtubeSearch.md #Next part.
+prevPart: _posts/2023-08-16-kaprekar.md #Previous part.
 #og_image: assets/example.png #Open Graph preview image.
 og_description: "MineuteCraft Datapack for Minecraft 1.20." #Open Graph description.
 ---

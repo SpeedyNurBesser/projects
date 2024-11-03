@@ -4,8 +4,8 @@ category: [programming, modding] #One, more categories or no at all.
 title:  "MCSettings: Web Tool for creating settings interfaces for Minecraft Datapacks."
 date:   2024-07-31 10:05:42 +0200
 #author: jekyll #Author's nick.
-#nextPart: _posts/2021-06-16-pictures-example.md #Next part.
-#prevPart: _posts/2021-06-16-welcome-to-jekyll.md #Previous part.
+nextPart: _posts/2024-08-26-uniformDroppers.md #Next part.
+prevPart: _posts/2024-07-26-a_writing_program.md #Previous part.
 #og_image: assets/example.png #Open Graph preview image.
 og_description: "MCSettings: Web Tool for creating settings interfaces for Minecraft Datapacks." #Open Graph description.
 ---

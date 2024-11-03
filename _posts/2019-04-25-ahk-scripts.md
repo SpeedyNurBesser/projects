@@ -4,7 +4,7 @@ category: [modding, programming] #One, more categories or no at all.
 title:  "Quality Of Life AutoHotkey Scripts"
 date:   2019-04-25 10:05:42 +0200
 #author: jekyll #Author's nick.
-#nextPart: _posts/2021-06-16-pictures-example.md #Next part.
+nextPart: _posts/2021-07-23-woodcutterV1.md #Next part.
 #prevPart: _posts/2021-06-16-welcome-to-jekyll.md #Previous part.
 #og_image: assets/example.png #Open Graph preview image.
 og_description: "Quality Of Life AutoHotkey Scripts" #Open Graph description.

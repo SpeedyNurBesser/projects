@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-03T21:55:14+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ole370’s Projects</title><subtitle>A list of my past projects...</subtitle><entry><title type="html">Weekly Report: What I’ve done this week</title><link href="http://localhost:4000/writing/2024/10/28/weeklyReport.html" rel="alternate" type="text/html" title="Weekly Report: What I’ve done this week" /><published>2024-10-28T09:05:42+01:00</published><updated>2024-10-28T09:05:42+01:00</updated><id>http://localhost:4000/writing/2024/10/28/weeklyReport</id><content type="html" xml:base="http://localhost:4000/writing/2024/10/28/weeklyReport.html"><![CDATA[<p>A weekly newsletter where I tell the world all about what I’ve been up to this week creatively.</p>
+
+<div class="sx-button">
+  <a href="https://ole370.substack.com" class="sx-button__content red">
+    Subscribe
+  </a>
+</div>
+
+<p>The idea arose as a plan to hold myself accountable (and thereby motivating myself) through a public promise.</p>
+
+<p>The newsletter is hosted on <a href="https://substack.com">Substack</a>.</p>
+
+<p>All previous entries are available in the archive.</p>
+
+<div class="sx-button">
+  <a href="https://ole370.substack.com/archive" class="sx-button__content blue">
+    Open Archive
+  </a>
+</div>]]></content><author><name></name></author><category term="[&quot;writing&quot;]" /><summary type="html"><![CDATA[A weekly newsletter where I tell the world all about what I’ve been up to this week creatively.]]></summary></entry><entry><title type="html">Gamified Homepage: Homepage that looks and is controlled like 2D PixelArt Game</title><link href="http://localhost:4000/programming/2024/10/18/gameHomepage.html" rel="alternate" type="text/html" title="Gamified Homepage: Homepage that looks and is controlled like 2D PixelArt Game" /><published>2024-10-18T10:05:42+02:00</published><updated>2024-10-18T10:05:42+02:00</updated><id>http://localhost:4000/programming/2024/10/18/gameHomepage</id><content type="html" xml:base="http://localhost:4000/programming/2024/10/18/gameHomepage.html"><![CDATA[<p>My personal homepage that looks and is controlled like a 2D topdown pixelart game (movement control and all). In the creation process of this page, the page you’re on right now as well as my blog were established.</p>
+
+<div class="sx-button">
+  <a href="https://speedynurbesser.github.io" class="sx-button__content red">
+    Open Page
+  </a>
+</div>
+
+<div class="sx-center">
+  <div class="sx-picture">
+      <a href="/assets/gameifiedHomepage.png" data-lity="">
+          <img src="/assets/gameifiedHomepage.png" />
+      </a>
+      <span class="sx-subtitle">A screenshot from the page.</span>
+  </div>
+</div>
+
+<p>This is one of my largest Web Dev Projects to this day (Oct 2024) and is written in vanilla javascript. The page as well as the pixelart and the bits of SFX were all made in about 10 days.</p>
+
+<p>Making this was probably the most fun I ever had making a website, altough creating character animations for 8 different movement directions isn’t really something I would call enjoyable.</p>
+
+<p>The pixel art on this page uses the <a href="https://lospec.com/palette-list/lost-century">Lost Century Color Palette made by CopheeMoth</a>.</p>
+
+<div class="sx-button">
+  <a href="https://speedynurbesser.github.io" class="sx-button__content red">
+    Open Page
+  </a>
+</div>
+
+<div class="sx-button">
+  <a href="https://github.com/speedynurbesser/speedynurbesser.github.io" class="sx-button__content blue">
+    GitHub Repository
+  </a>
+</div>]]></content><author><name></name></author><category term="[&quot;programming&quot;]" /><summary type="html"><![CDATA[My personal homepage that looks and is controlled like a 2D topdown pixelart game (movement control and all). In the creation process of this page, the page you’re on right now as well as my blog were established.]]></summary></entry><entry><title type="html">Uniform Droppers &amp;amp; Dispensers ResourePack for Minecraft 1.14 - 1.21</title><link href="http://localhost:4000/modding/2024/08/26/uniformDroppers.html" rel="alternate" type="text/html" title="Uniform Droppers &amp;amp; Dispensers ResourePack for Minecraft 1.14 - 1.21" /><published>2024-08-26T10:05:42+02:00</published><updated>2024-08-26T10:05:42+02:00</updated><id>http://localhost:4000/modding/2024/08/26/uniformDroppers</id><content type="html" xml:base="http://localhost:4000/modding/2024/08/26/uniformDroppers.html"><![CDATA[<p>Bothered by the different faces of <a href="https://minecraft.com">Minecraft’s</a> dropper and dispenser blocks depending on their orientation, I made a resourcepack (texture / model modification) to change their models learning how Minecraft stores information about their models.</p>
+
+<p>There have been similar resourepacks, but while I decided the default front face of the dropper/dispenser should be the one from the vertical orientation everyone else seemingly decided on the horizontal orientation. I am not quite sure why.</p>
+
+<div class="sx-button">
+  <a href="https://modrinth.com/resourcepack/uniformdroppers" class="sx-button__content red">
+    <img src="/assets/img/icons/down_arrow.svg" />Download
+  </a>
+</div>]]></content><author><name></name></author><category term="[&quot;modding&quot;]" /><summary type="html"><![CDATA[Bothered by the different faces of Minecraft’s dropper and dispenser blocks depending on their orientation, I made a resourcepack (texture / model modification) to change their models learning how Minecraft stores information about their models.]]></summary></entry><entry><title type="html">MCSettings: Web Tool for creating settings interfaces for Minecraft Datapacks.</title><link href="http://localhost:4000/programming/modding/2024/07/31/mcsettings.html" rel="alternate" type="text/html" title="MCSettings: Web Tool for creating settings interfaces for Minecraft Datapacks." /><published>2024-07-31T10:05:42+02:00</published><updated>2024-07-31T10:05:42+02:00</updated><id>http://localhost:4000/programming/modding/2024/07/31/mcsettings</id><content type="html" xml:base="http://localhost:4000/programming/modding/2024/07/31/mcsettings.html"><![CDATA[<p>MCSettings is a web tool for the easy creation of Settings Interfaces for Datapacks in <a href="https://minecraft.com">Minecraft</a> chat. It was one of my first bigger adventures into the world of Web Development. It was created during one week as an entry for a Datapack Jam. This was project was the first to combine my interests of Programming and Minecraft “modding”.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> (Datapacks are a kind of modification of Vanilla Minecraft through an in-build system)</p>
+
+<div class="sx-picture sx-center">
+    <a href="/assets/MCSettings.png" data-lity="">
+        <img src="/assets/MCSettings.png" />
+    </a>
+    <span class="sx-subtitle">A screenshot from MCSettings editing a Toggle Settings block</span>
+</div>
+
+<div class="sx-button">
+  <a href="https://speedynurbesser.github.io/MCSettings" class="sx-button__content green">
+    Open MCSettings
+  </a>
+</div>
+
+<div class="sx-button">
+  <a href="https://github.com/SpeedyNurBesser/mcsettings" class="sx-button__content blue">
+    GitHub Repository
+  </a>
+</div>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Note, that there’s a clear distinction between Minecraft Datapacks and Minecraft Mods, not to forget Plugins which act server-side. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="[&quot;programming&quot;, &quot;modding&quot;]" /><summary type="html"><![CDATA[MCSettings is a web tool for the easy creation of Settings Interfaces for Datapacks in Minecraft chat. It was one of my first bigger adventures into the world of Web Development. It was created during one week as an entry for a Datapack Jam. This was project was the first to combine my interests of Programming and Minecraft “modding”.1 (Datapacks are a kind of modification of Vanilla Minecraft through an in-build system) Note, that there’s a clear distinction between Minecraft Datapacks and Minecraft Mods, not to forget Plugins which act server-side. &#8617;]]></summary></entry><entry><title type="html">A_WritingProgram: Distraction-free writing software</title><link href="http://localhost:4000/programming/writing/2024/07/26/a_writing_program.html" rel="alternate" type="text/html" title="A_WritingProgram: Distraction-free writing software" /><published>2024-07-26T10:05:42+02:00</published><updated>2024-07-26T10:05:42+02:00</updated><id>http://localhost:4000/programming/writing/2024/07/26/a_writing_program</id><content type="html" xml:base="http://localhost:4000/programming/writing/2024/07/26/a_writing_program.html"><![CDATA[<p>Computers, browsers on them in particular, are a gateway to endless possibility and thus endless distractions. But since good writing cannot occur in such a distracting world, I in a few days created <em>A_WritingProgram</em>, a portable, distraction-free writing software for markdown, which blocks every other app on your computer until you have reached your writing goal (e.g. write 500 words or write for 1 hour).</p>
+
+<p><em>A_WritingProgram</em> is entirely written in Python using its in-build <code class="language-plaintext highlighter-rouge">tkinter</code> package. I added some quality of life features to tkinter’s default text input widget like Undo/Redo, the ability to remove entire words in one button pressing using Ctrl+Backspace / Ctrl+Delete as well as the ability to add markdown sytnax using key combinations like Ctrl+I for <em>Italic Text</em>.</p>
+
+<div class="sx-center">
+  <div class="sx-picture">
+      <a href="https://github.com/user-attachments/assets/  b87ed2e6-b3b8-4369-be22-975d3abaacb0" data-lity="">
+          <img src="https://github.com/user-attachments/assets/ b87ed2e6-b3b8-4369-be22-975d3abaacb0" />
+      </a>
+      <span class="sx-subtitle">A screenshot from the start-up window of A_WritingProgram</span>
+  </div>
+</div>
+
+<div class="sx-picture sx-center">
+    <a href="https://github.com/user-attachments/assets/5450bf89-205f-4219-83b3-c21fe4fcf8dd" data-lity="">
+        <img src="https://github.com/user-attachments/assets/5450bf89-205f-4219-83b3-c21fe4fcf8dd" />
+    </a>
+    <span class="sx-subtitle">A screenshot from the main text editing window (Note the missing close button in the corner). The bar at the top displays the progress made towards reaching your goal. It's fairly unspectacular, but that's needed for it in order to not be distracting.</span>
+</div>
+
+<p>I technically still work on this project, but since adding more features to something claiming to be distraction-free doesn’t really work I only really act on incoming bug reports.</p>
+
+<div class="sx-button">
+  <a href="https://github.com/SpeedyNurBesser/A_WritingProgram" class="sx-button__content blue">
+    GitHub Repository
+  </a>
+</div>
+
+<p>Note, that there are simular programs available online like <a href="https://gottcode.org/focuswriter/">FocusWriter</a> and <a href="https://getcoldturkey.com/writer/">ColdTurkey Writer</a>.</p>]]></content><author><name></name></author><category term="[&quot;programming&quot;, &quot;writing&quot;]" /><summary type="html"><![CDATA[Computers, browsers on them in particular, are a gateway to endless possibility and thus endless distractions. But since good writing cannot occur in such a distracting world, I in a few days created A_WritingProgram, a portable, distraction-free writing software for markdown, which blocks every other app on your computer until you have reached your writing goal (e.g. write 500 words or write for 1 hour).]]></summary></entry><entry><title type="html">Clean YouTube Search: YouTube Homepage without distractions</title><link href="http://localhost:4000/programming/2023/12/30/youtubeSearch.html" rel="alternate" type="text/html" title="Clean YouTube Search: YouTube Homepage without distractions" /><published>2023-12-30T09:05:42+01:00</published><updated>2023-12-30T09:05:42+01:00</updated><id>http://localhost:4000/programming/2023/12/30/youtubeSearch</id><content type="html" xml:base="http://localhost:4000/programming/2023/12/30/youtubeSearch.html"><![CDATA[<p>Tired of the distracting nature of the YouTube homepage showing you all kinds of new videos, while I really just want to 1. see my <em>Watch Later</em> playlist and 2. videos of YouTubers I am subscribed to, as well as search 3. for videos about specific topics.</p>
+
+<div class="sx-picture sx-center">
+    <a href="/assets/cleanYouTubeSearch.png" data-lity="">
+        <img src="/assets/cleanYouTubeSearch.png" />
+    </a>
+</div>
+
+<p>This website to this day lives only in a singular <code class="language-plaintext highlighter-rouge">index.html</code> file.</p>
+
+<p>Note, that you’d probably want a redirection plugin in your browser, forcing you to open this page instead, when you type <code class="language-plaintext highlighter-rouge">youtube.com</code>. Personally, I use the one by <a href="https://einaregilsson.com/redirector">Einar Egilsson</a>.</p>
+
+<div class="sx-button">
+  <a href="https://speedynurbesser.github.io/cleanYouTubeSearch" class="sx-button__content red">
+    Open Website
+  </a>
+</div>
+
+<div class="sx-button">
+  <a href="https://github.com/SpeedyNurBesser/cleanYouTubeSearch" class="sx-button__content blue">
+    GitHub Repository
+  </a>
+</div>]]></content><author><name></name></author><category term="[&quot;programming&quot;]" /><summary type="html"><![CDATA[Tired of the distracting nature of the YouTube homepage showing you all kinds of new videos, while I really just want to 1. see my Watch Later playlist and 2. videos of YouTubers I am subscribed to, as well as search 3. for videos about specific topics.]]></summary></entry><entry><title type="html">MineuteCraft Datapack for Minecraft 1.20</title><link href="http://localhost:4000/modding/2023/12/30/mineutecraft.html" rel="alternate" type="text/html" title="MineuteCraft Datapack for Minecraft 1.20" /><published>2023-12-30T09:05:42+01:00</published><updated>2023-12-30T09:05:42+01:00</updated><id>http://localhost:4000/modding/2023/12/30/mineutecraft</id><content type="html" xml:base="http://localhost:4000/modding/2023/12/30/mineutecraft.html"><![CDATA[<p>The MineuteCraft Datapack is a modification for Minecraft limiting a player’s play time to 1 minute per session. (A datapack is a kind of modification for Vanilla <a href="https://minecraft.com">Minecraft</a> Java)</p>
+
+<p>This datapack was based on an old Minecraft Let’s Play series by German Youtuber <a href="https://www.youtube.com/@skate702">Sebastian Hahner (skate702)</a> called <a href="https://www.youtube.com/playlist?list=PL9oBXB6tQnlXfSO9Wg38rjc3jzFhGJi9">One Minute Minecraft</a>.</p>
+
+<div class="sx-button">
+  <a href="https://modrinth.com/datapack/mineutecraft" class="sx-button__content red">
+    <img src="/assets/img/icons/down_arrow.svg" />Download
+  </a>
+</div>
+
+<div class="sx-button">
+  <a href="https://github.com/SpeedyNurBesser/MineuteCraft" class="sx-button__content blue">
+    GitHub Repository
+  </a>
+</div>]]></content><author><name></name></author><category term="[&quot;modding&quot;]" /><summary type="html"><![CDATA[The MineuteCraft Datapack is a modification for Minecraft limiting a player’s play time to 1 minute per session. (A datapack is a kind of modification for Vanilla Minecraft Java)]]></summary></entry><entry><title type="html">Kaprekar Graph</title><link href="http://localhost:4000/programming/2023/08/16/kaprekar.html" rel="alternate" type="text/html" title="Kaprekar Graph" /><published>2023-08-16T10:05:42+02:00</published><updated>2023-08-16T10:05:42+02:00</updated><id>http://localhost:4000/programming/2023/08/16/kaprekar</id><content type="html" xml:base="http://localhost:4000/programming/2023/08/16/kaprekar.html"><![CDATA[<p>This “project” would normally count as being to trivial to be mentioned here, if the result wouldn’t look this good. It creates 10,000 files to show off Kaprekar’s constant in action (using <a href="https://obsidian.md">Obsidian’s</a> graph view)</p>
+
+<p>Kaprekar’s constant, if you’re curious, is 6174 the number you will always get, when following kaprekar’s routine on every 4-digit number which is not made up of only the same digit (like 9999). Kaprekar’s routine / algorithm goes as follows:</p>
+
+<ol>
+  <li>
+    <p>Sort any 4-digit-number by the value of its digits, once low-to-high and once high-to-low: <code class="language-plaintext highlighter-rouge">5832</code> becomes <code class="language-plaintext highlighter-rouge">2358</code> (low-to-high) and <code class="language-plaintext highlighter-rouge">8532</code> (high-to-low).</p>
+  </li>
+  <li>
+    <p>Then substract the higher value from the lower value: <code class="language-plaintext highlighter-rouge">8532 - 2358 = 6174</code></p>
+  </li>
+  <li>
+    <p>If you didn’t instantaniously got <code class="language-plaintext highlighter-rouge">6174</code>, repeat with step 1 with the value you got.</p>
+  </li>
+</ol>
+
+<p>After a few steps you will always end up at <code class="language-plaintext highlighter-rouge">6174</code>, unless your 4-digit-number is made up of only the same digit, which would obviously give you zero.</p>
+
+<p>This graph visualiszes this quite well.</p>
+
+<div class="sx-center">
+  <div class="sx-picture">
+      <a href="https://raw.githubusercontent.com/SpeedyNurBesser/Kaprekar/refs/heads/main/graphview.png" data-lity="">
+          <img src="https://raw.githubusercontent.com/SpeedyNurBesser/Kaprekar/refs/heads/main/graphview.png" />
+      </a>
+      <span class="sx-subtitle">A graph displaying every number 0001 - 9999. Each number connects to the gained result, when following the Kaprekar constant on said number.</span>
+  </div>
+</div>
+
+<div class="sx-center">
+  <div class="sx-picture">
+      <a href="/assets/KaprekarGraph.PNG" data-lity="">
+          <img src="/assets/KaprekarGraph.PNG" />
+      </a>
+      <span class="sx-subtitle">Same graph with focus on the number 6174.</span>
+  </div>
+</div>
+
+<p>The files were created using python.</p>]]></content><author><name></name></author><category term="[&quot;programming&quot;]" /><summary type="html"><![CDATA[This “project” would normally count as being to trivial to be mentioned here, if the result wouldn’t look this good. It creates 10,000 files to show off Kaprekar’s constant in action (using Obsidian’s graph view)]]></summary></entry><entry><title type="html">Writing an article daily for a week.</title><link href="http://localhost:4000/writing/2023/08/02/project-genesis.html" rel="alternate" type="text/html" title="Writing an article daily for a week." /><published>2023-08-02T10:05:42+02:00</published><updated>2023-08-02T10:05:42+02:00</updated><id>http://localhost:4000/writing/2023/08/02/project-genesis</id><content type="html" xml:base="http://localhost:4000/writing/2023/08/02/project-genesis.html"><![CDATA[<p>Between August 2nd and August 8th 2023, I challenged myself to write an article daily for a week. In my notes this challenge went under the name <em>Project Genesis</em>. Most of those articles weren’t really good, but I wrote a concluding article which is worth sharing. I published those articles on <a href="https://medium.com">Medium</a>.</p>
+
+<div class="sx-button">
+  <a href="https://medium.com/@ole370/i-wrote-an-article-daily-for-a-week-heres-what-i-learned-1529c78639b3" class="sx-button__content green">
+    Read conclusion on Medium
+  </a>
+</div>]]></content><author><name></name></author><category term="[&quot;writing&quot;]" /><summary type="html"><![CDATA[Between August 2nd and August 8th 2023, I challenged myself to write an article daily for a week. In my notes this challenge went under the name Project Genesis. Most of those articles weren’t really good, but I wrote a concluding article which is worth sharing. I published those articles on Medium.]]></summary></entry><entry><title type="html">Woodcutter Datapack for Minecraft Java version 1.14 to 1.21</title><link href="http://localhost:4000/modding/2023/04/07/woodcutterV2.html" rel="alternate" type="text/html" title="Woodcutter Datapack for Minecraft Java version 1.14 to 1.21" /><published>2023-04-07T10:05:42+02:00</published><updated>2023-04-07T10:05:42+02:00</updated><id>http://localhost:4000/modding/2023/04/07/woodcutterV2</id><content type="html" xml:base="http://localhost:4000/modding/2023/04/07/woodcutterV2.html"><![CDATA[<p>The Minecraft Woodcutter Datapack (a datapack is a kind of modification for Vanilla Minecraft Java) is a recreation of my first public datapack including newly added wood types.</p>
+
+<p>This datapack is fairly simple. It just adds a bunch of recipes to a workstation block in the open-world sandbox game <a href="https://minecraft.com">Minecraft</a> known as the <a href="https://minecraft.wiki/w/Stonecutter"><em>Stonecutter</em></a>, which allows the player to cut stones into further processed forms taking less resources than would be needed otherwise. The recipes I added allowed the player to then also use the stonecutter to more cheaply process wood. (hence the name Woodcutter)</p>
+
+<p>The datapack was fairly popular having to this day (Oct 2024) been downloaded about 840 times on <a href="https://modrinth.com">Modrinth</a>.</p>
+
+<div class="sx-button">
+  <a href="https://modrinth.com/datapack/wood_cutter" class="sx-button__content red">
+    <img src="/assets/img/icons/down_arrow.svg" />Download
+  </a>
+</div>
+
+<p>This datapack has an extension named <em>Sticks n’ stones</em>, adding a few additional recipes:</p>
+
+<div class="sx-button">
+  <a href="https://modrinth.com/datapack/stick-n-stones" class="sx-button__content green">
+    <img src="/assets/img/icons/down_arrow.svg" />Download Extension
+  </a>
+</div>
+
+<div class="sx-button">
+  <a href="https://github.com/SpeedyNurBesser/woodcutter" class="sx-button__content blue">
+    GitHub Repository
+  </a>
+</div>]]></content><author><name></name></author><category term="[&quot;modding&quot;]" /><summary type="html"><![CDATA[The Minecraft Woodcutter Datapack (a datapack is a kind of modification for Vanilla Minecraft Java) is a recreation of my first public datapack including newly added wood types.]]></summary></entry></feed>

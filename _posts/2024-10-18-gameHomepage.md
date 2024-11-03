@@ -4,8 +4,8 @@ category: [programming] #One, more categories or no at all.
 title:  "Gamified Homepage: Homepage that looks and is controlled like 2D PixelArt Game"
 date:   2024-10-18 10:05:42 +0200
 #author: jekyll #Author's nick.
-#nextPart: _posts/2021-06-16-pictures-example.md #Next part.
-#prevPart: _posts/2021-06-16-welcome-to-jekyll.md #Previous part.
+nextPart: _posts/2024-10-28-weeklyReport.md #Next part.
+prevPart: _posts/2024-08-26-uniformDroppers.md #Previous part.
 #og_image: assets/example.png #Open Graph preview image.
 og_description: "Gamified Homepage: Homepage that looks and is controlled like 2D PixelArt Game" #Open Graph description.
 ---
